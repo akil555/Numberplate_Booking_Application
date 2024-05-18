@@ -16,7 +16,7 @@ To run the Fancy Number Plate application using Docker Compose, follow these ste
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/akil555/Numberplate-booking-app-mern
+   git clone https://github.com/akil555/Numberplate_Booking_Application
    ```
 
 2. Navigate to the repository directory:
