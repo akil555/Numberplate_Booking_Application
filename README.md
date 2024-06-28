@@ -22,7 +22,7 @@ To run the Fancy Number Plate application using Docker Compose, follow these ste
 2. Navigate to the repository directory:
 
    ```bash
-   cd Numberplate-booking-app
+   cd Numberplate_Booking_Application
    ```
 
 3. Build and start the containers using Docker Compose:
